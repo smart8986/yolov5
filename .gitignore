@@ -41,6 +41,10 @@ data/*
 images
 labels
 
+# 儿童写字手势数据集
+handpose_dataset_rename_label
+
+
 pycocotools/*
 results*.txt
 gcp_test*.sh
